@@ -1,0 +1,9 @@
++------------+        +-----------+       +--------------+
+|    Games   |        |   Team    |       |   Player     |
++------------+        +-----------+       +--------------+
+|    id      |<-------|    id     |<------| comment_id   |
+|    date    |        |   shots   |       | user_id      |
+|  homeTeam  |        | title     |       | post_id      |
+|  awayTeam  |        | content   |       | content      |
+| ...        |        | date_crea |       | date_crea    |
++------------+        +-----------+       +--------------+
